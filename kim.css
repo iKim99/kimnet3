@@ -1,0 +1,7 @@
+img {
+    position: absolute;
+    top : 0px;
+    left: 0%;
+    z-index: -1;
+}
+/* i don't know what happened,because i use this with my html file and didn't work */

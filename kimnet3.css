@@ -1,0 +1,9 @@
+body {background-color:grey }
+h1 {color: gold;
+    text-align: center}
+p {color: blue;
+   font-family: verdana;
+   border: 2px solid pink;
+   padding: 1%;
+   margin: 1%}
+   #p01 {color: green}
